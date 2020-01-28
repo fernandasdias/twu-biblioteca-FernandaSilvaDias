@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BooksTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-28T17:25:51" hostname="Fernandas-MacBook-Pro.local" time="0.006">
+  <properties/>
+  <testcase name="bookExistInLibraryTest" classname="BooksTest" time="0.006"/>
+  <system-out><![CDATA[
+ Thank you! Enjoy the book!
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
